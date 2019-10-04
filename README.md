@@ -1,5 +1,5 @@
-Get started with ASP.NET Core MVC
-=================================
+ASP.NET Core MVC
+================
 
 The app manages a database of movie titles.
 
